@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "notes": "🔧 Debug Version - Testing Update Download Flow\n• Fixed URL parameter handling\n• Enhanced debugging logs\n• Improved error handling",
+  "version": "1.0.1",
+  "notes": "Inital public release",
   "publishedAt": "2025-01-11T20:00:00Z",
   "downloadUrl": "https://drive.google.com/uc?export=download&id=1F0hxruGoJEX7CkiIkOko2yO77Avhurkf"
 }
