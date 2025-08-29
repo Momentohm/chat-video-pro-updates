@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "notes": "Added ChatGPT image generation support, added library for all generated media, new transform media button, bug fixes ",
+  "version": "1.1.3",
+  "notes": "Hotfix for VEO 3 video generation",
   "publishedAt": "2025-01-11T20:00:00Z",
-  "downloadUrl": "https://drive.usercontent.google.com/u/4/uc?id=16Wbqe8AMgw93Rx3T3pXduIK2YbSuHwCl&export=download"
+  "downloadUrl": "https://drive.usercontent.google.com/u/4/uc?id=1uH5PctAL98mso2VKyeaJknNVHUL12bJS&export=download"
 }
