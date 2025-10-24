@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "notes": "Sora 2, Kling update! New transition mode (start frame end frame), improved Video Prompter with effect recommendations, bug fixes, other improvements.",
-  "publishedAt": "10/14/2025",
-  "downloadUrl": "https://drive.usercontent.google.com/u/3/uc?id=1tk1aVm7P880Xc6ZvqDLCosDAOir7uvON&export=download"
+  "version": "1.1.7",
+  "notes": "PATCH - Fixes issues for some users. Sora 2, Kling update! New transition mode (start frame end frame), improved Video Prompter with effect recommendations, bug fixes, other improvements.",
+  "publishedAt": "10/24/2025",
+  "downloadUrl": "https://drive.google.com/file/d/1bZMYd0j_Zw_U68Y53PSTwywlQnPkqxwN/view"
 }
