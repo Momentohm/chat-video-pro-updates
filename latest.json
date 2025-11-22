@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "notes": "PATCH - Fixes issues for some users. Sora 2, Kling update! New transition mode (start frame end frame), improved Video Prompter with effect recommendations, bug fixes, other improvements.",
-  "publishedAt": "10/24/2025",
-  "downloadUrl": "https://drive.google.com/file/d/1bZMYd0j_Zw_U68Y53PSTwywlQnPkqxwN/view"
+  "version": "2.0.0",
+  "notes": "ChatVideoPro v2.0 introduces Unified Billing (one API key + in-panel usage tracking), brand-new image & video generation models including VEO 3.1, Kling 2.5 Turbo Pro, Hailuo, Wan, Nano Banana Pro, and Seedream v4, plus built-in AI upscaling and instant background removal. Major workflow & UI upgrades make the panel faster, more stable, and more intelligent than ever.",
+  "publishedAt": "11/18/2025",
+  "downloadUrl": "https://chatvideopro.com/updates"
 }
