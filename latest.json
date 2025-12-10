@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "notes": "ChatVideoPro v3.0 introduces full Video-to-Video support (SAM3 Roto, Reshoot, Lucy Edit, and the brand-new Kling 01, and Kling 2.6), next-gen thumbnail mode with blueprint presets, multi-image prompting, new image models including Flux 2 SeeDream 4.5 and Z-Image Turbo, Element references for consistent generations, and an upgraded Color Grading Assistant with on-the-fly LUT creation + reference matching. Our biggest, most powerful update yet.",
-  "publishedAt": "12/08/2025",
+  "version": "3.0.1",
+  "notes": "ChatVideoPro v3.0.1 patch: Fixed SAM 3 Rotoscoping performance, fixed issues on Intel Mac's",
+  "publishedAt": "12/10/2025",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
