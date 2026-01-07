@@ -1,6 +1,18 @@
 {
-  "version": "3.0.1",
-  "notes": "ChatVideoPro v3.0.1 patch: Fixed SAM 3 Rotoscoping performance, fixed issues on Intel Mac",
-  "publishedAt": "12/10/2025",
+  "version": "3.0.2",
+  "notes": "ChatVideoPro V3.0.2 focuses on professional-grade upscaling, personalized copywriting tools, and refined creative workflows.
+
+Topaz AI Integration: Replaced legacy upscalers with industry-leading Topaz technology for superior image and video enhancement.
+
+Timeline Upscaling: Expanded Video-to-Video upscaling to work on any clip from your Premiere Pro timeline.
+
+Brand Voice Assistant: New ability to train a custom brand voice and generate SEO-optimized platform copy via the /copy command.
+
+Thumbnail Mode: Dedicated high-CTR generation support added to GPT Image 1.5 and Flux 2 Max models.
+
+Workflow Logic: Faster editing via Story Cutter auto-play and increased accuracy for prompt-based Color Grading.
+
+Performance & Fixes: Significant stability updates to the Canvas Editor, SAM 3 framerates, and real-time loading indicators.",
+  "publishedAt": "1/7/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
