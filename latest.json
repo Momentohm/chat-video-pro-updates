@@ -1,6 +1,6 @@
 {
-  "version": "3.0.2",
-  "notes": "ChatVideoPro V3.0.2 focuses on professional-grade upscaling, personalized copywriting tools, and refined creative workflows.\n\nTopaz AI Integration: Replaced legacy upscalers with industry-leading Topaz technology for superior image and video enhancement.\n\nTimeline Upscaling: Expanded Video-to-Video upscaling to work on any clip from your Premiere Pro timeline.\n\nBrand Voice Assistant: New ability to train a custom brand voice and generate SEO-optimized platform copy via the /copy command.\n\nThumbnail Mode: Dedicated high-CTR generation support added to GPT Image 1.5 and Flux 2 Max models.\n\nWorkflow Logic: Faster editing via Story Cutter auto-play and increased accuracy for prompt-based Color Grading.\n\nPerformance & Fixes: Significant stability updates to the Canvas Editor, SAM 3 framerates, and real-time loading indicators.",
-  "publishedAt": "1/7/2026",
+  "version": "3.0.3",
+  "notes": "Chat Video Pro V3.0.3 introduces advanced long-form processing, direct documentation integration, and next-gen motion control.\n\nStory Cutter: Now supports 3+ hour transcripts with refined story structure options for documentary and long-form editors.\n\nVideo Prompter: Complete UX overhaul for custom prompts with improved output quality and optimized prompter cards.\n\nBrand Voice Assistant: New /music command to find trending audio instantly, plus Website Learning to self-train on your brand's URL.\n\nKnowledge Base: Direct integration with our new official documentation for instant in-panel help and workflow tutorials.\n\nKling Motion Control: New video-to-video 'Mocap' model—animate any reference image using the movement and physics of a source video.",
+  "publishedAt": "1/13/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
