@@ -1,6 +1,6 @@
 {
-  "version": "3.0.3",
-  "notes": "Chat Video Pro V3.0.3 introduces advanced long-form processing, direct documentation integration, and next-gen motion control.\n\nStory Cutter: Now supports 3+ hour transcripts with refined story structure options for documentary and long-form editors.\n\nVideo Prompter: Complete UX overhaul for custom prompts with improved output quality and optimized prompter cards.\n\nBrand Voice Assistant: New /music command to find trending audio instantly, plus Website Learning to self-train on your brand's URL.\n\nKnowledge Base: Direct integration with our new official documentation for instant in-panel help and workflow tutorials.\n\nKling Motion Control: New video-to-video 'Mocap' model—animate any reference image using the movement and physics of a source video.",
-  "publishedAt": "1/13/2026",
+  "version": "3.0.4",
+  "notes": "Chat Video Pro V3.0.4 adds powerful new tools and smarter assistants.\n\n• Bria Object Eraser — Remove unwanted objects from your footage seamlessly.\n• Generate Extend — Extend any clip by 7 more seconds (up to 30s total).\n• Kling Multi-Cam — Generate new camera angles and shots from your existing footage. Create complementary shots while maintaining the original cinematic motion.\n• Premiere Pro Guru, Video Prompter & Story Cutter — New /commands menu, better prompts, and more story structures for docs and narrative.\n• VEO 3.1 — All models now support 4K.\n• Bug fixes — Home screen layout and 4K upscaling (Topaz for timeline exports) fixed.",
+  "publishedAt": "1/27/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
