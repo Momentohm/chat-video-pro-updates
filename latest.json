@@ -1,6 +1,6 @@
 {
-  "version": "3.0.4",
-  "notes": "Chat Video Pro V3.0.4 adds powerful new tools and smarter assistants.\n\n• Bria Object Eraser — Remove unwanted objects from your footage seamlessly.\n• Generate Extend — Extend any clip by 7 more seconds (up to 30s total).\n• Kling Multi-Cam — Generate new camera angles and shots from your existing footage. Create complementary shots while maintaining the original cinematic motion.\n• Premiere Pro Guru, Video Prompter & Story Cutter — New /commands menu, better prompts, and more story structures for docs and narrative.\n• VEO 3.1 — All models now support 4K.\n• Bug fixes — Home screen layout and 4K upscaling (Topaz for timeline exports) fixed.",
-  "publishedAt": "1/27/2026",
+  "version": "3.0.5",
+  "notes": "Chat Video Pro V3.0.5 brings smarter AI, new video models, and enhanced memory.\n\n• GPT 5.2 Upgrade — Both fast and thinking versions now available with better performance, intelligence, and larger context window.\n• Enhanced Memory System — Improved memory facts and session memory for better conversation continuity.\n• Grok Imagine (NEW) — Complete new model family with text-to-image, image-to-image, text-to-video, image-to-video, and video-to-video.\n• Story Cutter Enhancements — Now reviews your edits with feedback, scoring, and cut recommendations.\n• Faster Chat Startup — All conversation starters instantly load on new chat creation.",
+  "publishedAt": "2/2/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
