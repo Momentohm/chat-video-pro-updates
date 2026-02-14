@@ -1,6 +1,6 @@
 {
-  "version": "3.0.5",
-  "notes": "Chat Video Pro V3.0.5 brings smarter AI, new video models, and enhanced memory.\n\n• GPT 5.2 Upgrade — Both fast and thinking versions now available with better performance, intelligence, and larger context window.\n• Enhanced Memory System — Improved memory facts and session memory for better conversation continuity.\n• Grok Imagine (NEW) — Complete new model family with text-to-image, image-to-image, text-to-video, image-to-video, and video-to-video.\n• Story Cutter Enhancements — Now reviews your edits with feedback, scoring, and cut recommendations.\n• Faster Chat Startup — All conversation starters instantly load on new chat creation.",
-  "publishedAt": "2/2/2026",
+  "version": "3.0.6",
+  "notes": "Major Kling model upgrade — new 3.0 family with native audio generation and longer videos.\n\n• Kling 3.0 Pro & Standard (NEW) — Universal generation for Text-to-Video, Image-to-Video, and Transition Mode in one model. Native audio generation (toggle on/off). Up to 15 seconds. Smart transition mode with 2 images.\n• Kling O3 Multi-Cam — Extended duration up to 15 seconds. Audio preservation option.\n• Kling O3 VFX — Smart video processing, automatic frame rate conversion, audio preservation.\n• Multi-Shot Mode — Consistent characters across scenes, automatic scene transitions.\n• Enhanced Voice-to-Text — Upgraded Whisper model, improved accuracy and language support.\n• Bug fixes — Story Cutter timestamp accuracy, Brand Voice Assistant memory, clips import.",
+  "publishedAt": "2/14/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
