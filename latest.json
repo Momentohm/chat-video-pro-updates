@@ -1,6 +1,6 @@
 {
-  "version": "3.0.6",
-  "notes": "Major Kling model upgrade — new 3.0 family with native audio generation and longer videos.\n\n• Kling 3.0 Pro & Standard (NEW) — Universal generation for Text-to-Video, Image-to-Video, and Transition Mode in one model. Native audio generation (toggle on/off). Up to 15 seconds. Smart transition mode with 2 images.\n• Kling O3 Multi-Cam — Extended duration up to 15 seconds. Audio preservation option.\n• Kling O3 VFX — Smart video processing, automatic frame rate conversion, audio preservation.\n• Multi-Shot Mode — Consistent characters across scenes, automatic scene transitions.\n• Enhanced Voice-to-Text — Upgraded Whisper model, improved accuracy and language support.\n• Bug fixes — Story Cutter timestamp accuracy, Brand Voice Assistant memory, clips import.",
-  "publishedAt": "2/14/2026",
+  "version": "3.0.7",
+  "notes": "⚠️ ACTION REQUIRED — Update Now to Keep Chat Video Pro Working\n\nOpenAI has discontinued GPT-4o. If you do not update, background features, including Story Cutter, memory, and assistant routing, will stop working. This update migrates CVP to newer, faster models automatically — no changes to your workflow.\n\nWhat's new in V3.0.7:\n• ⚡ Hardware-accelerated clips export — significantly faster clip imports into your Premiere Pro timeline\n• 🛠 Fixed Grok image generation mode\n• 🛠 Kling Multi-Cam now auto-downscales oversized clips — no manual resizing needed\n• ✨ Documentation shortcuts added to the About panel."
+  "publishedAt": "2026-02-19",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
