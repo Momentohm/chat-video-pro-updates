@@ -1,6 +1,6 @@
 {
-  "version": "3.0.7",
-  "notes": "⚠️ ACTION REQUIRED — Update Now to Keep Chat Video Pro Working\n\nOpenAI has discontinued GPT-4o. If you do not update, background features, including Story Cutter, memory, and assistant routing, will stop working. This update migrates CVP to newer, faster models automatically — no changes to your workflow.\n\nWhat's new in V3.0.7:\n• ⚡ Hardware-accelerated clips export — significantly faster clip imports into your Premiere Pro timeline\n• 🛠 Fixed Grok image generation mode\n• 🛠 Kling Multi-Cam now auto-downscales oversized clips — no manual resizing needed\n• ✨ Documentation shortcuts added to the About panel.",
-  "publishedAt": "2026-02-19",
+  "version": "3.1.0",
+  "notes": "What's new in V3.1.0:\n• ✂️ Story Cutter now inserts a rough cut directly into your Premiere timeline\n• 🧠 New models: Claude Sonnet 4.6 and Gemini 3.1 Pro now available\n• 🎬 Blackmagic RAW and pro camera profiles now supported\n• 🎥 Kling Motion Control updated to version 3\n• 🛠 Bug fixes, better error messages, and smoother performance across the board",
+  "publishedAt": "3/15/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
