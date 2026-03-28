@@ -1,6 +1,6 @@
 {
-  "version": "3.1.1",
-  "notes": "What's new in V3.1.1:\n• 🔧 Server compatibility patch — Fal.ai migrated to a new server endpoint; this update ensures video generation and image uploads work correctly for all users\n\nWhat's new in V3.1.0:\n• ✂️ Story Cutter now inserts a rough cut directly into your Premiere timeline\n• 🧠 New models: Claude Sonnet 4.6 and Gemini 3.1 Pro now available\n• 🎬 Blackmagic RAW and pro camera profiles now supported\n• 🎥 Kling Motion Control updated to version 3\n• 🛠 Bug fixes, better error messages, and smoother performance across the board",
-  "publishedAt": "3/17/2026",
+  "version": "3.1.2",
+  "notes": "What's new in V3.1.2:\n• ✂️ Smarter Story Cutter — improved editorial judgment, stronger hook detection, and tighter pacing logic for better rough cuts\n• 📋 Creative Briefs — bring producer notes from ChatGPT or Google Docs, or use /creative brief to build one inside CVP. Your tone and intent carry through the whole session automatically\n• 🧠 Better instruction following — CVP holds your focus, style, and constraints more reliably across multi-turn conversations\n• 🐛 More accurate soundbites — fixed a bug clipping the last word(s) off soundbites; cuts now land on their natural endpoints\n• ⚡ It's faster — less waiting, more editing",
+  "publishedAt": "3/28/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
