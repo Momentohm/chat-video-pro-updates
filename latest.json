@@ -1,6 +1,6 @@
 {
-  "version": "3.1.2",
-  "notes": "What's new in V3.1.2:\n• ✂️ Smarter Story Cutter — improved editorial judgment, stronger hook detection, and tighter pacing logic for better rough cuts\n• 📋 Creative Briefs — bring producer notes from ChatGPT or Google Docs, or use /creative brief to build one inside CVP. Your tone and intent carry through the whole session automatically\n• 🧠 Better instruction following — CVP holds your focus, style, and constraints more reliably across multi-turn conversations\n• 🐛 More accurate soundbites — fixed a bug clipping the last word(s) off soundbites; cuts now land on their natural endpoints\n• ⚡ It's faster — less waiting, more editing",
-  "publishedAt": "3/28/2026",
+  "version": "3.1.3",
+  "notes": "What's new in V3.1.3:\n• 🎬 Veo 3.1 Lite — new budget-friendly Veo model supporting Text-to-Video, Image-to-Video, and Transition Mode in one. Up to 1080p\n• ✂️ Story Cutter — longer transcripts now handled more reliably, faster processing, crash fix for very large files\n• 🐛 Story Cutter — fixed a bug where analysis could get stuck at the UNDERSTAND step\n• 🛠️ UI fix — removed duplicate GPT 1.5 entries from the model selector",
+  "publishedAt": "3/31/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
