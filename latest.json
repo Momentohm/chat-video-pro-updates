@@ -1,6 +1,6 @@
 {
-  "version": "3.1.3",
-  "notes": "What's new in V3.1.3:\n• 🎬 Veo 3.1 Lite — new budget-friendly Veo model supporting Text-to-Video, Image-to-Video, and Transition Mode in one. Up to 1080p\n• ✂️ Story Cutter — longer transcripts now handled more reliably, faster processing, crash fix for very large files\n• 🐛 Story Cutter — fixed a bug where analysis could get stuck at the UNDERSTAND step\n• 🛠️ UI fix — removed duplicate GPT 1.5 entries from the model selector",
-  "publishedAt": "3/31/2026",
+  "version": "3.1.4",
+  "notes": "What's new in V3.1.4:\n• Cinematic AI video upgrades, Story Cutter at production scale — scripts, multicam, and /batch\n• Seedance 2 — ByteDance's newest-gen model: natural motion, stable subjects, footage that feels ready to cut; stronger coherence and a more \"shot-in-camera\" look\n• Wan 2.7 — text-to-video, image-to-video, transition mode, video edit mode, and reference mode in one family\n• Story Cutter — tighter instruction following (cut to script, complex briefs); multicam for stacked synced angles; new /batch for multiple edit tasks in one run\n• Fixes — large-transcript crashes; faster outputs and better token efficiency; duplicate video tracks on insert; more reliable end-to-end listening to your instructions",
+  "publishedAt": "04/10/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
