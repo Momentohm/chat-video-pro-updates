@@ -1,6 +1,6 @@
 {
-  "version": "3.1.4",
-  "notes": "What's new in V3.1.4:\n• Cinematic AI video upgrades, Story Cutter at production scale — scripts, multicam, and /batch\n• Seedance 2 — ByteDance's newest-gen model: natural motion, stable subjects, footage that feels ready to cut; stronger coherence and a more \"shot-in-camera\" look\n• Wan 2.7 — text-to-video, image-to-video, transition mode, video edit mode, and reference mode in one family\n• Story Cutter — tighter instruction following (cut to script, complex briefs); multicam for stacked synced angles; new /batch for multiple edit tasks in one run\n• Fixes — large-transcript crashes; faster outputs and better token efficiency; duplicate video tracks on insert; more reliable end-to-end listening to your instructions",
-  "publishedAt": "04/10/2026",
+  "version": "3.1.5",
+  "notes": "What's new in V3.1.5:\n• Seedance 2 Reference — now supports audio reference\n• Wan 2.7 Reference — now supports audio reference\n• Fixed multi-image generation bug (nano banana)\n• Fixed color accuracy on frame import — disable Display Color Management in Lumetri settings for best results\n• Fixed hang when entering Seedance 2 reference mode\n• Fixed drag & drop images taking over the panel\n\nAlso in V3.1.4 (if you're coming from an earlier version):\n• Seedance 2 — ByteDance's newest-gen model: natural motion, stable subjects, footage that feels ready to cut\n• Wan 2.7 — text-to-video, image-to-video, transition, video edit, and reference mode in one family\n• Story Cutter — tighter instruction following (cut to script, complex briefs); multicam for stacked synced angles; new /batch for multiple edit tasks in one run\n• Fixes — large-transcript crashes; faster outputs and better token efficiency; duplicate video tracks on insert; more reliable end-to-end listening to your instructions",
+  "publishedAt": "4/12/2026",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
