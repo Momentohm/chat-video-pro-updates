@@ -1,6 +1,6 @@
 {
-  "version": "3.1.6",
-  "notes": "What's new in V3.1.6:\n• Seedance 2 now supports 1080p generation for cleaner, more production-ready AI video\n• Seedance 2 now supports Transition Mode (start frame / end frame)\n• GPT Image 2 — replaces GPT Image 1.5 with sharper detail and better prompt accuracy\n• Topaz image upscaling now includes expanded Topaz model support, including Standard MAX and Wonder, with fixes for more reliable upscale behavior\n• Fixed Brand Voice / Copy Card transcript workflows\n• Fixed Topaz image upscaling reliability issues\n• Fixed a SAM 3 rotoscope issue some users hit when tracking an entire video\n• Story Cutter now mirrors the exact clips on the source timeline more accurately, including upper layers like V2 and V3, and better supports broadcast-style start times\n• Fixed Kling Motion Control Attach character reference bug\n• Fixed Elements not working with Seedance 2",
-  "publishedAt": "4/22/2026",
+  "version": "3.1.7",
+  "notes": "What's new in V3.1.7:\n• Kling 4K — Kling V3 and O3 now generate native 4K video. Select 4K in the resolution pill for Kling 3.0 T2V, Kling 3.0 I2V, Kling O3 T2V, Kling O3 I2V, and Kling O3 Reference.\n• Large image upload fix — high-resolution images no longer fail with a file size error when generating with Kling.\n• MOV attachments fully supported — attach ProRes, H.264, and other MOV footage directly.",
+  "publishedAt": "2026-04-28T00:00:00Z",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
