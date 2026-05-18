@@ -1,6 +1,7 @@
 {
-  "version": "3.1.8",
-  "notes": "What's new in V3.1.8:\n• Story Cutter now shows speaker names from transcript data or Premiere Pro speaker labels at every cut point\n• /batch now handles more than 20 edits — no cap on batch job size\n• Batch inserts now name each edit so you can navigate directly to the cut you need\n• You can now stop a batch insert mid-execution and pick back up without waiting\n• Minor insert speed improvements on longer batches\n• Grok Imagine Quality mode — higher-fidelity image generation and editing for hero shots and client deliverables\n• Fixed: some image generation models incorrectly refusing valid prompts",
-  "publishedAt": "5/9/2026",
-  "downloadUrl": "https://chatvideopro.com/updates"
+  "version": "3.5.0-test.1",
+  "notes": "# Chat Video Pro v3.5.0-test.1\r\n\r\nThis is a **test release** for verifying the in-panel update flow.\r\n\r\nIt is published as a prerelease and is only visible to developers running the\r\ntest-branch manifest. Production users on `main/latest.json` see nothing.\r\n\r\n## What's being tested\r\n\r\n- In-panel update notification (purple dot on gear icon)\r\n- Direct ZXP download from GitHub\r\n- Automatic launch of Anastasiy ZXP installer\r\n- PostHog telemetry events fire correctly\r\n\r\n## Not for installation\r\n\r\nThis is a test build using the V3.1.8 binary as a stand-in. Do not install this on a production machine.\r\n",
+  "publishedAt": "2026-05-18T15:06:49.670Z",
+  "downloadUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/tag/v3.5.0-test.1",
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.5.0-test.1/ChatVideoPro-v3.5.0-test.1.zxp"
 }
