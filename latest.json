@@ -1,7 +1,7 @@
 {
   "version": "3.5.0-test.1",
   "notes": "# Chat Video Pro v3.5.0-test.1\r\n\r\nThis is a **test release** for verifying the in-panel update flow.\r\n\r\nIt is published as a prerelease and is only visible to developers running the\r\ntest-branch manifest. Production users on `main/latest.json` see nothing.\r\n\r\n## What's being tested\r\n\r\n- In-panel update notification (purple dot on gear icon)\r\n- Direct ZXP download from GitHub\r\n- Automatic launch of Anastasiy ZXP installer\r\n- PostHog telemetry events fire correctly\r\n\r\n## Not for installation\r\n\r\nThis is a test build using the V3.1.8 binary as a stand-in. Do not install this on a production machine.\r\n",
-  "publishedAt": "2026-05-18T15:06:49.670Z",
-  "downloadUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/tag/v3.5.0-test.1",
+  "publishedAt": "2026-05-18T15:48:31.512Z",
+  "downloadUrl": "https://chatvideopro.com/updates",
   "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.5.0-test.1/ChatVideoPro-v3.5.0-test.1.zxp"
 }
