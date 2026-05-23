@@ -1,12 +1,6 @@
 {
   "version": "3.2.0",
-  "notes": "What's new in V3.2.0 (Beta 1):
-• Studio mode — AI-powered creative tools: Cinematic Lab, Motion Director, Multi-Cam, Rotoscope, Relight, and more
-• Multi-engine transcription — local Whisper, Premiere Pro native, and cloud fallback
-• Story Cutter: speaker names at every cut, unlimited /batch, named batch sections, stop mid-execution
-• Grok Imagine Quality mode for higher-fidelity image generation
-• Premiere Pro 2025 + 2026 compatibility (host range widened)
-• Pipeline reliability improvements throughout",
+  "notes": "What's new in V3.2.0 (Beta 1):\n\u2022 Studio mode \u2014 AI-powered creative tools: Cinematic Lab, Motion Director, Multi-Cam, Rotoscope, Relight, and more\n\u2022 Multi-engine transcription \u2014 local Whisper, Premiere Pro native, and cloud fallback\n\u2022 Story Cutter: speaker names at every cut, unlimited /batch, named batch sections, stop mid-execution\n\u2022 Grok Imagine Quality mode for higher-fidelity image generation\n\u2022 Premiere Pro 2025 + 2026 compatibility (host range widened)\n\u2022 Pipeline reliability improvements throughout",
   "publishedAt": "2026-05-23T00:00:00Z",
   "downloadUrl": "https://chatvideopro.com/updates",
   "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.0-beta.1/ChatVideoPro-v3.2.0-beta.1.zxp"
