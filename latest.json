@@ -1,13 +1,6 @@
 {
   "version": "3.1.8",
-  "notes": "What's new in V3.1.8:
-• Story Cutter now shows speaker names from transcript data or Premiere Pro speaker labels at every cut point
-• /batch now handles more than 20 edits — no cap on batch job size
-• Batch inserts now name each edit so you can navigate directly to the cut you need
-• You can now stop a batch insert mid-execution and pick back up without waiting
-• Minor insert speed improvements on longer batches
-• Grok Imagine Quality mode — higher-fidelity image generation and editing for hero shots and client deliverables
-• Fixed: some image generation models incorrectly refusing valid prompts",
+  "notes": "What's new in V3.1.8:\n\u2022 Story Cutter now shows speaker names from transcript data or Premiere Pro speaker labels at every cut point\n\u2022 /batch now handles more than 20 edits \u2014 no cap on batch job size\n\u2022 Batch inserts now name each edit so you can navigate directly to the cut you need\n\u2022 You can now stop a batch insert mid-execution and pick back up without waiting\n\u2022 Minor insert speed improvements on longer batches\n\u2022 Grok Imagine Quality mode \u2014 higher-fidelity image generation and editing for hero shots and client deliverables\n\u2022 Fixed: some image generation models incorrectly refusing valid prompts",
   "publishedAt": "2026-05-08T00:00:00Z",
   "downloadUrl": "https://chatvideopro.com/updates"
 }
