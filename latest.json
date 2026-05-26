@@ -1,6 +1,7 @@
 {
-  "version": "3.1.8",
-  "notes": "What's new in V3.1.8:\n\u2022 Story Cutter now shows speaker names from transcript data or Premiere Pro speaker labels at every cut point\n\u2022 /batch now handles more than 20 edits \u2014 no cap on batch job size\n\u2022 Batch inserts now name each edit so you can navigate directly to the cut you need\n\u2022 You can now stop a batch insert mid-execution and pick back up without waiting\n\u2022 Minor insert speed improvements on longer batches\n\u2022 Grok Imagine Quality mode \u2014 higher-fidelity image generation and editing for hero shots and client deliverables\n\u2022 Fixed: some image generation models incorrectly refusing valid prompts",
-  "publishedAt": "2026-05-08T00:00:00Z",
-  "downloadUrl": "https://chatvideopro.com/updates"
+  "version": "3.2.0",
+  "notes": "What's new in v3.2.0\r\n\r\nStudio is here — your AI virtual production toolkit.\r\n\r\n• Cinematic Lab — compose hero keyframes\r\n• Motion Director — add camera moves to images\r\n• Multi-Cam — multiple angles from one frame\r\n• AI Transitions — bridge any two frames\r\n• Story Scribe — transcribe Premiere sequences\r\n• GPT-5.5 default + in-panel updates\r\n\r\nClick \"Learn more\" for the full changelog.\r\n",
+  "publishedAt": "2026-05-26T15:07:41.380Z",
+  "downloadUrl": "https://chatvideopro.com/updates",
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.0/ChatVideoPro-v3.2.0.zxp"
 }
