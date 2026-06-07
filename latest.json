@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
-  "notes": "What's new in v3.2.0\r\n\r\nStudio is here — your AI virtual production toolkit.\r\n\r\n• Cinematic Lab — compose hero keyframes\r\n• Motion Director — add camera moves to images\r\n• Multi-Cam — multiple angles from one frame\r\n• AI Transitions — bridge any two frames\r\n• Story Scribe — transcribe Premiere sequences\r\n• GPT-5.5 default + in-panel updates\r\n\r\nClick \"Learn more\" for the full changelog.\r\n",
-  "publishedAt": "2026-05-26T15:07:41.380Z",
+  "version": "3.2.1",
+  "notes": "What's new in v3.2.1\r\n\r\nAI Optimize, multi-light Relight, and Story Cutter\r\ncuts that follow your plan exactly.\r\n\r\n• NEW: AI Optimize — rewrites your prompt for your workflow\r\n• NEW: Relight — layer Key, Fill, and Accent lights\r\n• Faster video attach and Library loading\r\n• Story Cutter single-take and batch accuracy improved\r\n• Kling VFX, Relight Mac, and Story Cutter bug fixes\r\n\r\nClick \"Learn more\" for the full changelog.\r\n",
+  "publishedAt": "2026-06-07T13:51:52.027Z",
   "downloadUrl": "https://chatvideopro.com/updates",
-  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.0/ChatVideoPro-v3.2.0.zxp"
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.1/ChatVideoPro-v3.2.1.zxp"
 }
