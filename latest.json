@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
-  "notes": "What's new in v3.2.1\r\n\r\nAI Optimize, multi-light Relight, and Story Cutter\r\ncuts that follow your plan exactly.\r\n\r\n• NEW: AI Optimize — rewrites your prompt for your workflow\r\n• NEW: Relight — layer Key, Fill, and Accent lights\r\n• Faster video attach and Library loading\r\n• Story Cutter single-take and batch accuracy improved\r\n• Kling VFX, Relight Mac, and Story Cutter bug fixes\r\n\r\nClick \"Learn more\" for the full changelog.\r\n",
-  "publishedAt": "2026-06-07T13:51:52.027Z",
+  "version": "3.2.2",
+  "notes": "What's new in v3.2.2\n\nAvatar Studio and Reframe arrive in Studio.\n\n• NEW: Avatar Studio — AI talking-head video from a photo\n• NEW: Reframe — change aspect ratio with AI edge-fill, no crop\n• NEW: VOID Object Eraser — text or draw to remove objects\n• NEW: Kling V3 Turbo — faster, cheaper, 720p & 1080p\n• LUT preview library, LTX Reshoot 2.3, compatibility guard\n• Plus improvements and bug fixes.\n\nClick \"Learn more\" for the full changelog.\n",
+  "publishedAt": "2026-06-19T05:08:16.809Z",
   "downloadUrl": "https://chatvideopro.com/updates",
-  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.1/ChatVideoPro-v3.2.1.zxp"
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.2/ChatVideoPro-v3.2.2.zxp"
 }
