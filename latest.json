@@ -1,7 +1,1 @@
-{
-  "version": "3.2.2",
-  "notes": "What's new in v3.2.2\n\nAvatar Studio and Reframe arrive in Studio.\n\n• NEW: Avatar Studio — AI talking-head video from a photo\n• NEW: Reframe — change aspect ratio with AI edge-fill, no crop\n• NEW: VOID Object Eraser — text or draw to remove objects\n• NEW: Kling V3 Turbo — faster, cheaper, 720p & 1080p\n• LUT preview library, LTX Reshoot 2.3, compatibility guard\n• Plus improvements and bug fixes.\n\nClick \"Learn more\" for the full changelog.\n",
-  "publishedAt": "2026-06-19T05:08:16.809Z",
-  "downloadUrl": "https://chatvideopro.com/updates",
-  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.2/ChatVideoPro-v3.2.2.zxp"
-}
+{"version":"3.2.3","notes":"What's new in v3.2.3\n\nGemini Omni Flash, Claude Sonnet 5, and 280 free LUTs.\n\n• NEW: Gemini Omni Flash — any-input video w/ synced audio\n• NEW: Claude Sonnet 5, Opus 4.8, Fable 5 + Gemini 3.5 Flash\n• NEW: 280 free CVP LUTs, 7 Motion Director presets\n• NEW: 3 AI Transition styles, Grok Imagine Video 1.5\n• Reframe upgraded to Luma Ray 3.2 (up to 30s, lower cost)\n• Story Cutter + LUT Gallery fixes\n\nClick \"Learn more\" for the full changelog.\n","publishedAt":"2026-07-07T20:22:58.484Z","downloadUrl":"https://chatvideopro.com/updates","zxpUrl":"https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.3/chatvideopro-V3.2.3.zxp"}
