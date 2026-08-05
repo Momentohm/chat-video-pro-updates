@@ -1,1 +1,7 @@
-{"version":"3.2.4","notes":"What's new in v3.2.4\n\nSeedream 5.0 Pro and Ideogram V4 Fast, plus an install hotfix.\n\n• NEW: Seedream 5.0 Pro — text-to-image and edit\n• NEW: Ideogram V4 Fast — replaces Z-Image Turbo\n• HOT FIX: install issue for some users\n\nClick \"Learn more\" for the full changelog.\n","publishedAt":"2026-07-09T17:00:00Z","downloadUrl":"https://chatvideopro.com/updates","zxpUrl":"https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.4/chatvideopro-V3.2.4.zxp"}
+{
+  "version": "3.2.5",
+  "notes": "What's new in v3.2.5\n\nAudio Expansion is here — score, SFX, voiceover and stems.\n\n• NEW: Audio Expansion (paid add-on) — Music Composer,\n  SFX Studio, Voiceover Lab, Stem Separation\n• FREE: Drag & drop media in and out of your timeline\n• FREE: Run multiple Studio generations at once\n• NEW: GPT-5.6 models, and Hailuo 03 — 2K with audio\n• Grok Imagine 1.5 at 1080p, plus an auto-tagged audio library\n\nClick \"Learn more\" for the full changelog.\n",
+  "publishedAt": "2026-08-05T16:51:41.127Z",
+  "downloadUrl": "https://chatvideopro.com/updates",
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.5/ChatVideoPro-v3.2.5.zxp"
+}
