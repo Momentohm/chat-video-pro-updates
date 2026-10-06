@@ -1,1 +1,7 @@
-{"version":"3.2.9","notes":"What's new in v3.2.9\n\nGPT-6, Claude Opus 5.5, Grok 4.7, and a steadier Story Cutter.\n\n• NEW: GPT-6 Luna and Sol, Claude Opus 5.5, and Grok 4.7 in chat\n• NEW: Optimize rewrites your prompt for the model you picked\n• NEW: FLUX 3 Edit, Hailuo 03 Max 1080P, Lyria 3.5 music\n• Sora 2 retired; saved picks move to Veo 3.1 Fast\n• FIX: Insert Rough Cut keeps every layer and its extra audio\n• IMPROVED: Story Cutter stalls show a message you can retry\n\nClick \"Learn more\" for the full changelog.","publishedAt":"2026-09-23T00:00:00Z","downloadUrl":"https://chatvideopro.com/updates","zxpUrl":"https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.2.9/ChatVideoPro-v3.2.9.zxp"}
+{
+  "version": "3.3.0",
+  "notes": "What's new in v3.3.0\n\nSonnet 5.5 and GPT-6.1 Sol join the model picker, plus fixes.\n\n• NEW: Claude Sonnet 5.5 is the default model, Story Cutter too\n• NEW: GPT-6.1 Sol replaces GPT-6 Sol in chat\n• IMPROVED: Video and image windows send exactly what you pick\n• IMPROVED: Regenerate remembers how a clip was made\n• FIX: Story Cutter cuts non-English transcripts reliably\n• FIX: Clearer error cards with only buttons that work\n\nClick \"Learn more\" for the full changelog.",
+  "publishedAt": "2026-10-05T00:00:00Z",
+  "downloadUrl": "https://chatvideopro.com/updates",
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.3.0/ChatVideoPro-v3.3.0.zxp"
+}
