@@ -1,7 +1,7 @@
 {
-  "version": "3.3.0",
-  "notes": "What's new in v3.3.0\n\nSonnet 5.5 and GPT-6.1 Sol join the model picker, plus fixes.\n\n• NEW: Claude Sonnet 5.5 is the default model, Story Cutter too\n• NEW: GPT-6.1 Sol replaces GPT-6 Sol in chat\n• IMPROVED: Video and image windows send exactly what you pick\n• IMPROVED: Regenerate remembers how a clip was made\n• FIX: Story Cutter cuts non-English transcripts reliably\n• FIX: Clearer error cards with only buttons that work\n\nClick \"Learn more\" for the full changelog.",
-  "publishedAt": "2026-10-05T00:00:00Z",
+  "version": "3.3.1",
+  "notes": "What's new in v3.3.1\n\nStory Cutter cuts cleaner and reads your length asks right.\n\n• Inserted clips start and end exactly on the cut\n• Length asks like \"2.5 minutes\" or \"45 seconds tops\"\n• Selects shows every qualified moment\n• Generate Media always asks before a paid render\n• Plus Story Scribe timing and 23.976 fixes\n\nClick \"Learn more\" for the full changelog.",
+  "publishedAt": "2026-10-12T00:00:00Z",
   "downloadUrl": "https://chatvideopro.com/updates",
-  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.3.0/ChatVideoPro-v3.3.0.zxp"
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.3.1/ChatVideoPro-v3.3.1.zxp"
 }
