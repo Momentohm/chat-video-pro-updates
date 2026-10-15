@@ -1,7 +1,7 @@
 {
-  "version": "3.3.1",
-  "notes": "What's new in v3.3.1\n\nStory Cutter cuts cleaner and reads your length asks right.\n\n• Inserted clips start and end exactly on the cut\n• Length asks like \"2.5 minutes\" or \"45 seconds tops\"\n• Selects shows every qualified moment\n• Generate Media always asks before a paid render\n• Plus Story Scribe timing and 23.976 fixes\n\nClick \"Learn more\" for the full changelog.",
-  "publishedAt": "2026-10-12T00:00:00Z",
+  "version": "3.3.2",
+  "notes": "What's new in v3.3.2\n\nThe Captions Engine is here.\n\n• Styled, animated captions built inside Premiere\n• 49 styles, one transparent clip, no credits\n• Gemini 4 Argon replaces Gemini 3.1 Pro\n• Nano Banana 2.1 replaces Nano Banana 2\n• Selects start and end on clean sentences\n\nClick \"Learn more\" for the full changelog.",
+  "publishedAt": "2026-10-14T00:00:00Z",
   "downloadUrl": "https://chatvideopro.com/updates",
-  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.3.1/ChatVideoPro-v3.3.1.zxp"
+  "zxpUrl": "https://github.com/Momentohm/chat-video-pro-updates/releases/download/v3.3.2/ChatVideoPro-v3.3.2.zxp"
 }
